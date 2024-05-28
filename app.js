@@ -48,7 +48,7 @@ const products = [
     },
     {
       id: 4,
-      title: "Crater",
+      title: "Craters",
       price: 129,
       colors: [
         {
